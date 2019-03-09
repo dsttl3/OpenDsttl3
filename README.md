@@ -6,3 +6,5 @@
 
 [Web2Img](https://github.com/dsttl3/OpenDsttl3/tree/master/Web2Img) 网页转成图片
 
+
+[WeiBoAPI](https://github.com/dsttl3/OpenDsttl3/tree/master/WeiBoAPI) 微博API接口
