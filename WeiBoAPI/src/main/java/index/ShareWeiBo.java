@@ -11,8 +11,8 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class ShareWeiBo {
-	final static String YOUR_REGISTERED_REDIRECT_URI = "https://www.dsttl3.cn";
-	final static String WEIBO_SHARE_API_URL = "https://api.weibo.com/2/statuses/share.json";
+	final static String YOUR_REGISTERED_REDIRECT_URI = "https://www.dsttl3.cn";//安全域名
+	final static String WEIBO_SHARE_API_URL = "https://api.weibo.com/2/statuses/share.json";//微博第三方分享接口
 
 	/**
 	 * 微博发布（使用微博第三方分享发布接口）
