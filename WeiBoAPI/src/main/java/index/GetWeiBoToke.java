@@ -30,7 +30,7 @@ public class GetWeiBoToke {
 		if (desktop.isDesktopSupported() && desktop.isSupported(Desktop.Action.BROWSE)) {
 			try {
 				desktop.browse(new URI(
-						"https://api.weibo.com/oauth2/authorize?client_id=164595604&response_type=code&redirect_uri="+YOUR_REGISTERED_REDIRECT_URI));
+						"https://api.weibo.com/oauth2/authorize?client_id="+YOUR_CLIENT_ID+"&response_type=code&redirect_uri="+YOUR_REGISTERED_REDIRECT_URI));
 			} catch (IOException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
