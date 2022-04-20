@@ -1,0 +1,20 @@
+[
+    {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "text": "3000点用户经验,2根辣条",
+            "specialText": "再签到10天可以获得50根辣条",
+            "allDays": 30,
+            "hadSignDays": 10,
+            "isBonusDay": 0
+        }
+    },
+    {
+        "code": 1011040,
+        "message": "今日已签到过,无法重复签到",
+        "ttl": 1,
+        "data": null
+    }
+]
