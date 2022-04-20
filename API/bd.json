@@ -1,0 +1,72 @@
+[
+    {
+        "errno": 0,
+        "request_id": 52707382187137619,
+        "server_time": 1649752684,
+        "cfrom_id": 0,
+        "hitrisk": 0,
+        "appeal_status": 0,
+        "is_zombie": 0,
+        "vip_level": 1,
+        "vip_point": 0,
+        "vip_type": 0,
+        "sharetype": 0,
+        "view_visited": 0,
+        "view_limit": 0,
+        "expired_type": 1,
+        "title": "\/\u7ea6\u7403\u4f1a",
+        "list": [
+            {
+                "category": "6",
+                "fs_id": "629055390417255",
+                "isdir": "1",
+                "local_ctime": "1528201279",
+                "local_mtime": "1528201279",
+                "md5": "",
+                "path": "\/\u7ea6\u7403\u4f1a",
+                "server_ctime": "1528201279",
+                "server_filename": "\u7ea6\u7403\u4f1a",
+                "server_mtime": "1528201279",
+                "size": "0"
+            }
+        ],
+        "share_id": 18993181190,
+        "uk": 2829265359
+    },
+    {
+        "shareid": 54260632898,
+        "uk": 2829265359,
+        "dir": "",
+        "type": 0,
+        "prod_type": "share",
+        "page": 1,
+        "root": 0,
+        "third": 0,
+        "longurl": "shareid=54260632898uk=2829265359",
+        "fid": 0,
+        "from": null,
+        "tid": null,
+        "errno": -3,
+        "view_visited": 0,
+        "view_limit": 0,
+        "sharetype": 0,
+        "expired_type": 0,
+        "Elink_info": {
+            "isElink": 0,
+            "eflag_disable": false
+        },
+        "Espace_info": null,
+        "card_info": null,
+        "msp": 0,
+        "forbidbit": 0,
+        "forbidlist": [],
+        "vipType": 0,
+        "ctime": 1649753102,
+        "expiredtype": 0,
+        "fcount": 1,
+        "privilege_type": 0,
+        "appeal_status": 0,
+        "uk_str": "2829265359",
+        "show_msg": "\u6765\u665a\u5566\uff0c\u5206\u4eab\u6587\u4ef6\u5df2\u7ecf\u88ab\u5220\u9664\u4e86~"
+    }
+]
