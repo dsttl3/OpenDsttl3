@@ -1,200 +1,173 @@
-{
-    "tbs": "b45d72a60f0356951649574024",
-    "is_login": 1
-}
-
-15: 00: 27.076 [main] INFO top.srcrs.Run - 获取tbs成功
-
-{
-    "no": 0,
-    "error": "success",
-    "data": {
-        "uid": 2802886759,
-        "tbs": "02ac1bda80e36e5e",
-        "itb_tbs": "073d83cf067a3f0b1649574025",
-        "like_forum": [
-            {
-                "forum_name": "java",
-                "user_level": "2",
-                "user_exp": "7",
-                "forum_id": 693735,
-                "is_like": true,
-                "favo_type": 2,
-                "is_sign": 1
-            },
-            {
-                "forum_name": "\u91d1\u838e",
-                "user_level": "6",
-                "user_exp": "141",
-                "forum_id": 615748,
-                "is_like": true,
-                "favo_type": 2,
-                "is_sign": 1
-            },
-            {
-                "forum_name": "\u9e3f\u8499",
-                "user_level": "1",
-                "user_exp": "1",
-                "forum_id": 159443,
-                "is_like": true,
-                "favo_type": 2,
-                "is_sign": 0
-            }
-        ],
-        "ubs_sample_ids": "100766_2",
-        "ubs_abtest_config": [
-            {
-                "sid": "hotrecommendstyle"
-            },
-            {
-                "sid": "hotrecommendstrategy"
-            },
-            {
-                "sid": "topicstyle_c"
-            },
-            {
-                "sid": "siterecommend_a"
-            },
-            {
-                "sid": "site_appsearch_a"
-            },
-            {
-                "sid": "picbottom_b"
-            },
-            {
-                "sid": "midpagenew_1"
-            },
-            {
-                "sid": "wisebar_4"
-            },
-            {
-                "sid": "safaridqyhfzh_2"
-            },
-            {
-                "sid": "wisetoken_2"
-            }
-        ]
+[
+    {
+        "tbs": "b45d72a60f0356951649574024",
+        "is_login": 1
+    },
+    {
+        "no": 0,
+        "error": "success",
+        "data": {
+            "uid": 2802886759,
+            "tbs": "02ac1bda80e36e5e",
+            "itb_tbs": "073d83cf067a3f0b1649574025",
+            "like_forum": [
+                {
+                    "forum_name": "java",
+                    "user_level": "2",
+                    "user_exp": "7",
+                    "forum_id": 693735,
+                    "is_like": true,
+                    "favo_type": 2,
+                    "is_sign": 1
+                },
+                {
+                    "forum_name": "\u91d1\u838e",
+                    "user_level": "6",
+                    "user_exp": "141",
+                    "forum_id": 615748,
+                    "is_like": true,
+                    "favo_type": 2,
+                    "is_sign": 1
+                },
+                {
+                    "forum_name": "\u9e3f\u8499",
+                    "user_level": "1",
+                    "user_exp": "1",
+                    "forum_id": 159443,
+                    "is_like": true,
+                    "favo_type": 2,
+                    "is_sign": 0
+                }
+            ],
+            "ubs_sample_ids": "100766_2",
+            "ubs_abtest_config": [
+                {
+                    "sid": "hotrecommendstyle"
+                },
+                {
+                    "sid": "hotrecommendstrategy"
+                },
+                {
+                    "sid": "topicstyle_c"
+                },
+                {
+                    "sid": "siterecommend_a"
+                },
+                {
+                    "sid": "site_appsearch_a"
+                },
+                {
+                    "sid": "picbottom_b"
+                },
+                {
+                    "sid": "midpagenew_1"
+                },
+                {
+                    "sid": "wisebar_4"
+                },
+                {
+                    "sid": "safaridqyhfzh_2"
+                },
+                {
+                    "sid": "wisetoken_2"
+                }
+            ]
+        }
+    },
+    {
+        "user_info": {
+            "user_id": -1492080536,
+            "is_sign_in": 1,
+            "user_sign_rank": 890,
+            "sign_time": 1649574025,
+            "cont_sign_num": 1,
+            "total_sign_num": 1,
+            "cout_total_sing_num": 1,
+            "hun_sign_num": 0,
+            "total_resign_num": 0,
+            "is_org_name": 0,
+            "sign_bonus_point": 6,
+            "miss_sign_num": 9,
+            "level_name": "\u5f00\u5929\u8f9f\u5730",
+            "levelup_score": 5,
+            "all_level_info": null,
+            "last_level_score": 0,
+            "last_score_left": 0,
+            "last_level_name": "",
+            "last_level": 0
+        },
+        "contri_info": [],
+        "server_time": 145295,
+        "time": 1649574025,
+        "ctime": 0,
+        "logid": 25611203,
+        "error_code": "0"
+    },
+    {
+        "user_info": {
+            "user_id": -1492080536,
+            "is_sign_in": 1,
+            "user_sign_rank": 13798,
+            "sign_time": 1649584487,
+            "cont_sign_num": 1,
+            "total_sign_num": 1,
+            "cout_total_sing_num": 1,
+            "hun_sign_num": 0,
+            "total_resign_num": 0,
+            "is_org_name": 0,
+            "sign_bonus_point": 6,
+            "miss_sign_num": 9,
+            "level_name": "\u6bd2\u866b\u8086\u8650",
+            "levelup_score": 5,
+            "all_level_info": null,
+            "last_level_score": 0,
+            "last_score_left": 0,
+            "last_level_name": "",
+            "last_level": 0
+        },
+        "contri_info": [],
+        "server_time": 158361,
+        "time": 1649584487,
+        "ctime": 0,
+        "logid": 3287485680,
+        "error_code": "0"
+    },
+    {
+        "user_info": {
+            "user_id": -1492080536,
+            "is_sign_in": 1,
+            "user_sign_rank": 23180,
+            "sign_time": 1649584489,
+            "cont_sign_num": 1,
+            "total_sign_num": 1,
+            "cout_total_sing_num": 1,
+            "hun_sign_num": 0,
+            "total_resign_num": 0,
+            "is_org_name": 0,
+            "sign_bonus_point": 6,
+            "miss_sign_num": 9,
+            "level_name": "\u80e1\u95f9\u53a8\u623f",
+            "levelup_score": 5,
+            "all_level_info": null,
+            "last_level_score": 0,
+            "last_score_left": 0,
+            "last_level_name": "",
+            "last_level": 0
+        },
+        "contri_info": [],
+        "server_time": 139513,
+        "time": 1649584489,
+        "ctime": 0,
+        "logid": 3288960258,
+        "error_code": "0"
+    },
+    {
+        "error_code": "160002",
+        "error_msg": "\u4eb2\uff0c\u4f60\u4e4b\u524d\u5df2\u7ecf\u7b7e\u8fc7\u4e86",
+        "info": [],
+        "time": 1649592778,
+        "ctime": 0,
+        "logid": 778576306,
+        "server_time": 95621
     }
-}
-
-15: 00: 27.540 [main] INFO top.srcrs.Run - 获取贴吧列表成功
-
-15: 00: 27.540 [main] INFO top.srcrs.Run - -----第 1 轮签到开始-----
-
-15: 00: 27.540 [main] INFO top.srcrs.Run - 还剩 1 贴吧需要签到
-
-kw=鸿蒙
-&tbs=b45d72a60f0356951649574024
-&sign=3d34651230565f3bd5adc1e3a07ed767
-
-{
-    "user_info": {
-        "user_id": -1492080536,
-        "is_sign_in": 1,
-        "user_sign_rank": 890,
-        "sign_time": 1649574025,
-        "cont_sign_num": 1,
-        "total_sign_num": 1,
-        "cout_total_sing_num": 1,
-        "hun_sign_num": 0,
-        "total_resign_num": 0,
-        "is_org_name": 0,
-        "sign_bonus_point": 6,
-        "miss_sign_num": 9,
-        "level_name": "\u5f00\u5929\u8f9f\u5730",
-        "levelup_score": 5,
-        "all_level_info": null,
-        "last_level_score": 0,
-        "last_score_left": 0,
-        "last_level_name": "",
-        "last_level": 0
-    },
-    "contri_info": [],
-    "server_time": 145295,
-    "time": 1649574025,
-    "ctime": 0,
-    "logid": 25611203,
-    "error_code": "0"
-}
-
-15: 00: 27.887 [main] INFO top.srcrs.Run - 鸿蒙: 签到成功
-
-15: 00: 27.887 [main] INFO top.srcrs.Run - 共 3 个贴吧 - 成功: 3 - 失败: 0
-
-
-14
-dota2国服交易
-
-{
-    "user_info": {
-        "user_id": -1492080536,
-        "is_sign_in": 1,
-        "user_sign_rank": 13798,
-        "sign_time": 1649584487,
-        "cont_sign_num": 1,
-        "total_sign_num": 1,
-        "cout_total_sing_num": 1,
-        "hun_sign_num": 0,
-        "total_resign_num": 0,
-        "is_org_name": 0,
-        "sign_bonus_point": 6,
-        "miss_sign_num": 9,
-        "level_name": "\u6bd2\u866b\u8086\u8650",
-        "levelup_score": 5,
-        "all_level_info": null,
-        "last_level_score": 0,
-        "last_score_left": 0,
-        "last_level_name": "",
-        "last_level": 0
-    },
-    "contri_info": [],
-    "server_time": 158361,
-    "time": 1649584487,
-    "ctime": 0,
-    "logid": 3287485680,
-    "error_code": "0"
-}
-
-ps4
-
-{
-    "user_info": {
-        "user_id": -1492080536,
-        "is_sign_in": 1,
-        "user_sign_rank": 23180,
-        "sign_time": 1649584489,
-        "cont_sign_num": 1,
-        "total_sign_num": 1,
-        "cout_total_sing_num": 1,
-        "hun_sign_num": 0,
-        "total_resign_num": 0,
-        "is_org_name": 0,
-        "sign_bonus_point": 6,
-        "miss_sign_num": 9,
-        "level_name": "\u80e1\u95f9\u53a8\u623f",
-        "levelup_score": 5,
-        "all_level_info": null,
-        "last_level_score": 0,
-        "last_score_left": 0,
-        "last_level_name": "",
-        "last_level": 0
-    },
-    "contri_info": [],
-    "server_time": 139513,
-    "time": 1649584489,
-    "ctime": 0,
-    "logid": 3288960258,
-    "error_code": "0"
-}
-
-{
-    "error_code": "160002",
-    "error_msg": "\u4eb2\uff0c\u4f60\u4e4b\u524d\u5df2\u7ecf\u7b7e\u8fc7\u4e86",
-    "info": [],
-    "time": 1649592778,
-    "ctime": 0,
-    "logid": 778576306,
-    "server_time": 95621
-}
-
-3FSNkFGUGJBTVFVOFV4bzF6VGFsT0lIcmV1UmU2Y0phbW5OWmtLcVZTSHJHM2xpRVFBQUFBJCQAAAAAAAAAAAEAAABnqBCnZHN0dGwzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOuOUWLrjlFiM
+]
